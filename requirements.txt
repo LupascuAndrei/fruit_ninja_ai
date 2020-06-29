@@ -1,0 +1,6 @@
+opencv_python==4.2.0.34
+numpy==1.18.2
+PyAutoGUI==0.9.50
+mss==5.0.0
+keyboard==0.13.5
+pywin32==227
