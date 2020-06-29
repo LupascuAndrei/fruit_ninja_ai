@@ -17,7 +17,7 @@ The game as a chrome extension: https://chrome.google.com/webstore/detail/fruit-
 
 Simply place the chrome extension on the top right corner of your screen and run this file.
 
-**Some heuristics and timings might differ depending on your machine. The code was tweaked run on a 3.5GHz I5-7600 (no GPU acceleration)**
+**Some heuristics and timings might differ depending on your machine. The code was tweaked to run on a 3.5GHz I5-7600 (no GPU acceleration)**
 (too much/little computing time between frames might affect the AI's decisions and timings).
 Feel free to update any hardcoded values to better match your machine
 ## Dependencies
