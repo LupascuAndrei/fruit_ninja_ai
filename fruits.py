@@ -338,7 +338,7 @@ with mss.mss() as sct:
                 sumX = int(sumX/cnt)
                 sumY = int(sumY/cnt)
 
-                # pretty whie circle around the detected object
+                # pretty white circle around the detected object
                 cv2.circle(img, (sumX, sumY), 35, (255, 255, 255), 2)
 
                 if isFruit:

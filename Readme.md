@@ -6,8 +6,9 @@ https://www.youtube.com/watch?v=Vw3vU9OdWAs
 
 ## Reddit discussion
 
-https://old.reddit.com/r/programming/comments/hdwcfm/i_created_a_perfect_ai_for_fruit_ninja/
+https://reddit.com/r/programming/comments/hdwcfm/i_created_a_perfect_ai_for_fruit_ninja/
 
+https://reddit.com/r/programming/comments/hhr49g/source_code_for_the_fruit_ninja_ai_which_blew_up/
 
 ## Descripton
 
